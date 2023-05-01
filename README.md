@@ -1,0 +1,2 @@
+# typescriptPrac
+type+react practice
